@@ -98,18 +98,10 @@ variable is also used to calculate the offset of the vehicle to either side or o
 
 ● Off-Center() function uses pts_mean variable to calculate the offset value and show it in meter space.
 
-3. addText ()
-
-● Finally, by adding text on the final image would complete the process and the information displayed.
-
-4. main ()
+3. main ()
 
 ● Main function is where all these functions are called in the correct order and contains the loop to play 
-vide
-
-
-
-
+video
 
 ![image](https://user-images.githubusercontent.com/120237181/206842433-cac6c88d-9d94-48b8-b336-11c00a797e0a.png)
 
